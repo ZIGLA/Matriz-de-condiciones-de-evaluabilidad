@@ -1,0 +1,1 @@
+# Matriz-de-condiciones-de-evaluabilidad
